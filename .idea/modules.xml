@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidProsjekt.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidProsjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidProsjekt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidProsjekt_main.iml" group="AndroidProsjekt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidProsjekt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidProsjekt_test.iml" group="AndroidProsjekt" />
+      <module fileurl="file://$PROJECT_DIR$/NettProggØ2/NettProggØ2.iml" filepath="$PROJECT_DIR$/NettProggØ2/NettProggØ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ2v2.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ2v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ2v2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ2v2_main.iml" group="NettProggØ2v2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ2v2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ2v2_test.iml" group="NettProggØ2v2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ3.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ3_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ3_main.iml" group="NettProggØ3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ3_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ3_test.iml" group="NettProggØ3" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ4.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ4_main.iml" group="NettProggØ4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ4_test.iml" group="NettProggØ4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ5.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ5_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ5_main.iml" group="NettProggØ5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NettProggØ5_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NettProggØ5_test.iml" group="NettProggØ5" />
+      <module fileurl="file://$PROJECT_DIR$/Semester4.iml" filepath="$PROJECT_DIR$/Semester4.iml" />
+    </modules>
+  </component>
+</project>

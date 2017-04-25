@@ -1,0 +1,21 @@
+a.
+
+    Utstyr blir kun brukt av Registret som er på serversiden, så man trenger ikke gjøre noe med det.
+
+
+b.
+
+    1. finnAntallRegistrert
+        Ingen endring
+    2. finnUtstyr
+        Utstyr må bli remote fordi det skal bli hentet via nettverket
+    3. regNyttUtstyr
+        Utstyr må serialiseres fordi det skal sendes via nettet
+c.
+
+    Viktig at metodene i Register er synchronized fordi de kan brukes av flere klienter samtidig
+
+    ArrayList er ikke synchronized, man kan bruke java/util/concurrent/CopyOnWriteArrayList.html
+
+
+
